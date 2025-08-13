@@ -1,4 +1,5 @@
 <h1>Nexus_Billing_Ticketing</h1>
+<br/>
 
 
 <h2>Description</h2>
@@ -6,7 +7,8 @@ A middleware adapter that tranfers key Billing Profile Changes to the Help Desk 
   -Populates | modifies | closes ticketing profiles
   -Populates | modifies account iinformation section 
   -Populates | modifies services SLA and equipment sections 
-<br />
+<br/>
+<br/>
 
 
 <h2>Languages, Utilities and Dependencies </h2>
@@ -17,6 +19,8 @@ A middleware adapter that tranfers key Billing Profile Changes to the Help Desk 
 - <b>Java Service Wrapper (Installs Java Based applications as a Windows Service)</b>  
 - <b>SQL: Oracle (9.2.0.8) and MSSQL 2000</b>
 - <b>Oracle SQL Developer and MSSQL 2000 SQL Studio </b>
+<br/>
+<br/>
 
 
 <h2>Environments Used </h2>
@@ -24,38 +28,25 @@ A middleware adapter that tranfers key Billing Profile Changes to the Help Desk 
 - <b>Sun Java Runtime Environment and Virtual Machine (1.4.2_16) - Windows 2000 Server </b>
 - <b>Oracle Database Server 9i Enterprise Edition [9.2.0.8] AIX </b>
 - <b>MSSQL Server 2000</b>
+<br/>
+<br/>
 
 
-
-<h2>Program walk-through:</h2>
+<h2>Nexus Adapter Flow:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Pre Nexus: Manual Operations: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Post Nexus: Automated Operations:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Nexus Windows Service: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
