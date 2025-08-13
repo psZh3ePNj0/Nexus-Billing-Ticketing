@@ -44,7 +44,7 @@ Post Nexus: Automated Operations:  <br/>
 <br />
 <br />
 Nexus Windows Service: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
+<img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/Nexus_Service.jpg" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
 </p>
