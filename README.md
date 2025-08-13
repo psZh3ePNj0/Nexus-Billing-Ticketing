@@ -49,6 +49,13 @@ Nexus Windows Service: <br/>
 <br />
 </p>
 
+
+<h2>Documentation References </h2>
+
+- <b>Nexus Adminitrator</b>
+- <b>Nexus Developer </b>
+
+
 <!--
  ```diff
 - text in red
