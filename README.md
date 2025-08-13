@@ -52,8 +52,10 @@ Nexus Windows Service: <br/>
 
 <h2>Documentation References </h2>
 
-- <b>Nexus Adminitrator</b>
-- <b>Nexus Developer </b>
+- <b>[Nexus Administrator](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS_ADMINISTRATOR_GITHUB.docx)</b>
+- <b>[Nexus Developer](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS_DEVELOPER_GITHUB.docx)</b>
+
+
 
 
 <!--
