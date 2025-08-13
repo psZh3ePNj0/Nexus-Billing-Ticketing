@@ -36,11 +36,11 @@ A middleware adapter that tranfers key Billing Profile Changes to the Help Desk 
 
 <p align="center">
 Pre Nexus: Manual Operations: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
+<img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS-ManualFlow-GITGUB.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
 Post Nexus: Automated Operations:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
+<img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS-AutomatedFlow-GITGUB.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
 Nexus Windows Service: <br/>
