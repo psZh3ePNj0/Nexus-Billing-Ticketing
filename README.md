@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-<b>A middleware adapter that tranfers key Billing Profile Changes to the Help Desk Support Ticket system and automatically:</b>
+<b>A middleware adapter that tranfers key Billing profile changes to the Help Desk Support Ticket system and automatically:</b>
 
 
 <br/>
