@@ -3,10 +3,15 @@
 
 
 <h2>Description</h2>
-A middleware adapter that tranfers key Billing Profile Changes to the Help Desk Support Ticket system and automatically
-  -Populates | modifies | closes ticketing profiles
-  -Populates | modifies account iinformation section 
-  -Populates | modifies services SLA and equipment sections 
+<b>A middleware adapter that tranfers key Billing Profile Changes to the Help Desk Support Ticket system and automatically:</b>
+
+
+<br/>
+
+  - Populates / modifies / closes ticketing profiles
+  - Populates / modifies account iinformation section
+  - Populates / modifies services SLA and equipment sections 
+  
 <br/>
 <br/>
 
@@ -39,10 +44,14 @@ Pre Nexus: Manual Operations: <br/>
 <img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS-ManualFlow-GITGUB.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
+
+  
 Post Nexus: Automated Operations:  <br/>
 <img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS-AutomatedFlow-GITGUB.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
+
+
 Nexus Windows Service: <br/>
 <img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/Nexus_Service.jpg" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
