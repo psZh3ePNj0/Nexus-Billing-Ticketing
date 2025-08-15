@@ -45,13 +45,15 @@ Pre Nexus: Manual Operations: <br/>
 <br />
 <br />
 
-  
+
+<p align="center">
 Post Nexus: Automated Operations:  <br/>
 <img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS-AutomatedFlow-GITGUB.png" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
 <br />
 
 
+<p align="center">
 Nexus Windows Service: <br/>
 <img src="https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/Nexus_Service.jpg" height="80%" width="80%" alt="Nexus Adapter Flow"/>
 <br />
