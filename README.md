@@ -1,3 +1,6 @@
+<h5><b><i>Note to Reader: Where permissable - the source code will readily be provided. There are cases where IP | Copyright factors apply. In those cases the source code cannot be published without the StakeHolders consent. Thank you for your understanding.</b></i></h5>
+<br/>
+
 <h1>Nexus_Billing_Ticketing</h1>
 <br/>
 
