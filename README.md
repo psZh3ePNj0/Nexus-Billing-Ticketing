@@ -6,13 +6,13 @@
 
 
 <h2>Description</h2>
-<b>A middleware adapter that tranfers key Billing profile changes to the Help Desk Support Ticket system and automatically:</b>
+<b>A middleware adapter that transfers key Billing profile changes to the Help Desk Support Ticket system and automatically:</b>
 
 
 <br/>
 
   - Populates / modifies / closes ticketing profiles
-  - Populates / modifies account iinformation section
+  - Populates / modifies account information section
   - Populates / modifies services SLA and equipment sections 
   
 <br/>
