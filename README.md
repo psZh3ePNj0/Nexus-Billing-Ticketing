@@ -1,5 +1,9 @@
-<h5><b><i>Note to Reader: Where permissible - the source code will readily be provided. There are cases where IP | Copyright factors apply. In those cases the source code cannot be published without the StakeHolders consent. Thank you for your understanding.</b></i></h5>
+<h5><b><i>Note to Reader: Where feasible the source code [sanitized version] will readily be provided. Forr the original source code, there are cases where IP | Copyright factors may apply. In those cases the original source code cannot be published without the StakeHolders consent. Thank you for your understanding.</b></i></h5>
 <br/>
+
+<h5> SANITIZED SOURCE CODE TO BE POSTED SOON! </h5>
+<br/>
+
 
 <h1>Nexus_Billing_Ticketing</h1>
 <br/>
