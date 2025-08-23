@@ -1,6 +1,8 @@
-<h5><b><i>Note to Reader: Where feasible the source code [sanitized version] will readily be provided. Forr the original source code, there are cases where IP | Copyright factors may apply. In those cases the original source code cannot be published without the StakeHolders consent. Thank you for your understanding.</b></i></h5>
+<h5><b><i>Note to Reader: Where feasible the source code [sanitized version] will be readily provided. For the original source code, there are cases where IP | Copyright factors may apply. In those cases the original source code cannot be published without the StakeHolders consent. 
 <br/>
-
+<br/>
+You will have to make changes and test thoroughly [as per best practice] before using any supplied source code here in any production capacity. Thank you for your understanding.</b></i></h5>
+<br/>
 <h5> SANITIZED SOURCE CODE TO BE POSTED SOON! </h5>
 <br/>
 
