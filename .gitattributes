@@ -19,8 +19,7 @@
 *.ruby  diff=ruby
 *.sh    diff=bash
 Gemfile diff=ruby
-*.sql linguist-language=SQL
-*.sql linguist-detectable=true
+*.sql   diff=SQL
 
 # Windows
 
