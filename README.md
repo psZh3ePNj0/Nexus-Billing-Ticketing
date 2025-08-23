@@ -3,8 +3,6 @@
 <br/>
 You will have to make changes and test thoroughly [as per best practice] before using any supplied source code here in any production capacity. Thank you for your understanding.</b></i></h5>
 <br/>
-<h5> SANITIZED SOURCE CODE TO BE POSTED SOON! </h5>
-<br/>
 
 
 <h1>Nexus_Billing_Ticketing</h1>
@@ -72,8 +70,8 @@ Nexus Windows Service: <br/>
 
 <h2>Documentation References </h2>
 
-- <b>[Nexus Administrator](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS_ADMINISTRATOR_GITHUB.docx)</b>
-- <b>[Nexus Developer](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing/blob/main/NEXUS_DEVELOPER_GITHUB.docx)</b>
+- <b>[Nexus Administrator](https://github.com/psZh3ePNj0/Nexus-Billing-Ticketing/blob/main/DOCUMENTATION/NEXUS_ADMINISTRATOR_GITHUB.docx)</b>
+- <b>[Nexus Developer](https://github.com/psZh3ePNj0/Nexus-Billing-Ticketing/blob/main/DOCUMENTATION/NEXUS_ADMINISTRATOR_GITHUB.docx)</b>
 
 
 
