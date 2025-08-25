@@ -10,7 +10,7 @@ You will have to make changes and test thoroughly [as per best practice] before 
 
 
 <h2>Description</h2>
-<b>A middleware adapter that transfers key Billing profile changes to the Help Desk Support Ticket system and automatically:</b>
+<b>A middleware adapter that transfers key Billing System profile changes to the Help Desk Support Ticket system and automatically:</b>
 
 
 <br/>
